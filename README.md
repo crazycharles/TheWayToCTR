@@ -5,4 +5,4 @@
 
 当前进度<br/>
 1. [逻辑回归简介及实现](https://github.com/crazycharles/TheWayToCTR/tree/master/逻辑回归简介及实现)
-2. :construction_worker:
+2. :horse_racing:
