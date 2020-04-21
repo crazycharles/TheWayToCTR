@@ -1,4 +1,4 @@
-# TheWayToCTR
+# The Way To CTR
 小白记录自己学习CTR的历程，欢迎和我交流
 * 邮件：[chaojie.an@qq.com](chaojie.an@qq.com)
 * 知乎：[安超杰的知乎](https://www.zhihu.com/people/yu-feng-er-xing-86)
