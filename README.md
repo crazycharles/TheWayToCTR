@@ -5,4 +5,5 @@
 
 当前进度<br/>
 1. [逻辑回归简介及实现](https://github.com/crazycharles/TheWayToCTR/tree/master/逻辑回归简介及实现)
-2. :horse_racing:
+2. [逻辑回归预测CTR经典论文解读](https://github.com/crazycharles/TheWayToCTR/tree/master/逻辑回归预测CTR经典论文解读)
+3. :horse_racing:
