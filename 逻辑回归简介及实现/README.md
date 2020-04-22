@@ -1,3 +1,6 @@
+Hello!  
+这份文档记录了我自己对逻辑回归原理的理解，以及纯python的代码实现。  
+logisitic_regression.py就是我的逻辑回归python实现，你可以自己扩展功能，目前仅针对二分类问题。
 ## :sunglasses:文件说明
 文件名|内容说明
 -|-
