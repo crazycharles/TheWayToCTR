@@ -7,4 +7,5 @@
 1. [逻辑回归简介及实现](https://github.com/crazycharles/TheWayToCTR/tree/master/逻辑回归简介及实现)
 2. [逻辑回归预测CTR经典论文解读](https://github.com/crazycharles/TheWayToCTR/tree/master/逻辑回归预测CTR经典论文解读)
 3. [梯度提升树（GBDT）简介](https://github.com/crazycharles/TheWayToCTR/tree/master/梯度提升树（GBDT）简介)
-4. :pencil2:
+4. [GBDT+LR预测CTR经典论文阅读笔记](https://github.com/crazycharles/TheWayToCTR/tree/master/GBDT%2BLR预测CTR经典论文阅读笔记)
+5. :pencil2:
